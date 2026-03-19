@@ -30,28 +30,28 @@ I am now focused on designing and deploying cloud-native solutions using Microso
 ### 🔹 FastAPI Azure Deployment
 
 Production-style containerized FastAPI application deployed using Terraform and Azure Container Instances.
-👉 Demonstrates end-to-end cloud deployment and infrastructure automation
+👉 Focus: End-to-end cloud deployment and infrastructure automation
 
 ---
 
 ### 🔹 Industrial Telemetry Pipeline
 
 Cloud-ready telemetry system inspired by real industrial environments.
-👉 Demonstrates event-driven architecture and system design
+👉 Focus: Event-driven architecture and industrial system design
 
 ---
 
 ### 🔹 CI/CD Pipeline (Azure + GitHub Actions)
 
 Enterprise-style pipeline with validation, approvals, and secure deployment.
-👉 Demonstrates DevOps automation and governance
+👉 Focus: DevOps automation, validation, and controlled deployments
 
 ---
 
 ### 🔹 Terraform Azure Infrastructure
 
 Reusable infrastructure foundation using Terraform.
-👉 Demonstrates scalable infrastructure design
+👉 Focus: Scalable infrastructure provisioning using Infrastructure as Code
 
 ---
 
